@@ -58,7 +58,7 @@ const View = ({character}) => {
     if (index < 5) {
       result.push(
         <li key={index} className="char__comics-item">
-          <a target={'_blank'} href={element.resourceURI}>{element.name}</a>
+          <span>{element.name}</span>
         </li>
       )
     }
@@ -72,10 +72,10 @@ const View = ({character}) => {
         <div>
           <div className="char__info-name">{name}</div>
           <div className="char__btns">
-            <a href={homepage} className="button button__main">
+            <a href={homepage} target={'_blank'} className="button button__main">
               <div className="inner">homepage</div>
             </a>
-            <a href={wiki} className="button button__secondary">
+            <a target={'_blank'} href={wiki} className="button button__secondary">
               <div className="inner">Wiki</div>
             </a>
           </div>
