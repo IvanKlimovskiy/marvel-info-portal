@@ -51,7 +51,7 @@ const View = ({comic}) => {
           <p className="single-comic__descr">{`Language: ${comic.language}`}</p>
           <div className="single-comic__price">{comic.price ? `${comic.price} $` : 'not avaible'}</div>
         </div>
-        <Link to="/comics" className="single-comic__back">Back to all</Link>
+        <Link to="/marvel-info-portal/comics" className="single-comic__back">Back to all</Link>
       </div>
   )
 }
