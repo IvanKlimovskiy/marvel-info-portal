@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/marvel-info-portal/static/css/main.9d24b010.css",
-    "main.js": "/marvel-info-portal/static/js/main.e528f3d1.js",
+    "main.css": "/marvel-info-portal/static/css/main.5139e4ef.css",
+    "main.js": "/marvel-info-portal/static/js/main.36d74266.js",
+    "static/media/page404.png": "/marvel-info-portal/static/media/page404.b9244450de0ae0d0705a.png",
     "static/media/vision.png": "/marvel-info-portal/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/mjolnir.png": "/marvel-info-portal/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/marvel-info-portal/static/media/Avengers.4065c8f9c94e3d8b039a.png",
     "static/media/error.gif": "/marvel-info-portal/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/marvel-info-portal/static/media/Avengers_logo.9eaf219344d83362e830.png",
     "index.html": "/marvel-info-portal/index.html",
-    "main.9d24b010.css.map": "/marvel-info-portal/static/css/main.9d24b010.css.map",
-    "main.e528f3d1.js.map": "/marvel-info-portal/static/js/main.e528f3d1.js.map"
+    "main.5139e4ef.css.map": "/marvel-info-portal/static/css/main.5139e4ef.css.map",
+    "main.36d74266.js.map": "/marvel-info-portal/static/js/main.36d74266.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d24b010.css",
-    "static/js/main.e528f3d1.js"
+    "static/css/main.5139e4ef.css",
+    "static/js/main.36d74266.js"
   ]
 }
