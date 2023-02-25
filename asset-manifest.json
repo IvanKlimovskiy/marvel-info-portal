@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marvel-info-portal/static/css/main.5139e4ef.css",
-    "main.js": "/marvel-info-portal/static/js/main.bc95e88c.js",
+    "main.js": "/marvel-info-portal/static/js/main.c4f3e721.js",
     "static/media/page404.png": "/marvel-info-portal/static/media/page404.b9244450de0ae0d0705a.png",
     "static/media/vision.png": "/marvel-info-portal/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/mjolnir.png": "/marvel-info-portal/static/media/mjolnir.61f31e1809f12183a524.png",
@@ -10,10 +10,10 @@
     "static/media/Avengers_logo.png": "/marvel-info-portal/static/media/Avengers_logo.9eaf219344d83362e830.png",
     "index.html": "/marvel-info-portal/index.html",
     "main.5139e4ef.css.map": "/marvel-info-portal/static/css/main.5139e4ef.css.map",
-    "main.bc95e88c.js.map": "/marvel-info-portal/static/js/main.bc95e88c.js.map"
+    "main.c4f3e721.js.map": "/marvel-info-portal/static/js/main.c4f3e721.js.map"
   },
   "entrypoints": [
     "static/css/main.5139e4ef.css",
-    "static/js/main.bc95e88c.js"
+    "static/js/main.c4f3e721.js"
   ]
 }
