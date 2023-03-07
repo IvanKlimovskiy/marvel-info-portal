@@ -6,6 +6,7 @@ import ErrorMessage from "../errorMessage/errorMessage";
 import Spinner from "../spinner/Spinner";
 
 import './charInfo.scss';
+import CharSearchForm from "../charSearchForm/charSearchForm";
 
 const CharInfo = ({characterId}) => {
 
@@ -37,11 +38,14 @@ const CharInfo = ({characterId}) => {
   const contentState = !(error || loading || !character) ? <View character={character}/> : null;
 
   return (
-    <div className="char__info">
-      {skeletonState}
-      {errorState}
-      {loadingState}
-      {contentState}
+    <div>
+      <div className="char__info">
+        {skeletonState}
+        {errorState}
+        {loadingState}
+        {contentState}
+      </div>
+      <CharSearchForm/>
     </div>
   )
 }
